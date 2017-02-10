@@ -3,7 +3,7 @@ package de.kronos197.pathfinding;
 import java.util.ArrayList;
 
 /**
- * Created by lenna on 09.02.2017.
+ * Created by Kronos197 on 09.02.2017.
  */
 public class LadderGame
 {
